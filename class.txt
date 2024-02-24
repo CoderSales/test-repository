@@ -11,6 +11,3 @@ Fuchsia
 Purple
 Brown
 Red
-Indigo
-Pink
-Black
